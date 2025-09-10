@@ -1,7 +1,7 @@
 import app from './app';
 const port = 3000;
 
-const a =;
+console.log('hello');
 
 app.get('/', (req, res) => {
   console.log('Hello World!');
